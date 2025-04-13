@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+joblib
+numpy
+scikit-learn  # only if your model depends on it
