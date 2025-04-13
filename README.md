@@ -53,11 +53,59 @@ LinkedIn integration with graph analysis helps find mentors, track alumni career
 
 ## 📊 Tech Stack
 
-- **Frontend:** React, TypeScript, Tailwind CSS, Shadcn UI  
-- **Backend:** Supabase (auth + data)  
-- **AI/ML Models:** BERT, GPT-4, custom multi-task DL models  
-- **Resume Parsing & Analysis:** SpaCy NLP, Transformers  
-- **Job Data Sourcing:** Live web scraping + job APIs
+### 🖥️ Frontend
+
+- **React + TypeScript**  
+  Modern component-based frontend library with static typing for robust, scalable development.
+
+- **Vite**  
+  Ultra-fast development server and build tool that enhances developer experience with lightning-fast HMR and optimized production builds.
+
+- **Tailwind CSS + Shadcn UI**  
+  Utility-first CSS framework paired with an elegant component library to rapidly build responsive and accessible UIs.
+
+- **React Router**  
+  Enables seamless client-side navigation for dynamic, single-page applications.
+
+- **TanStack Query (React Query)**  
+  Powerful tool for managing server state with features like caching, background sync, and request deduplication.
+
+- **Three.js**  
+  JavaScript 3D rendering library used to create immersive and interactive visuals with WebGL.
+
+- **Lucide Icons**  
+  Clean, consistent SVG icon library tailored for modern UIs.
+
+- **Context API**  
+  Lightweight state management for app-wide settings like theme switching and user preferences.
+
+---
+
+### 🔧 Backend
+
+- **Supabase**  
+  Open-source backend-as-a-service (BaaS) providing authentication, real-time database, and storage—all integrated seamlessly.
+
+---
+
+### 🤖 AI/ML Models
+
+- **BERT, GPT-4, Custom Multi-task Deep Learning Models**  
+  Powerful natural language models used for job prediction, salary estimation, and skill classification, fine-tuned for accurate career guidance.
+
+---
+
+### 📄 Resume Parsing & Analysis
+
+- **SpaCy NLP, Hugging Face Transformers**  
+  Advanced natural language processing libraries used to extract and analyze key resume information and skills.
+
+---
+
+### 🌐 Job Data Sourcing
+
+- **Live Web Scraping + Job APIs**  
+  Continuously updated job listings and market trends sourced from real-time scraping and external APIs to ensure relevant recommendations.
 
 ---
 
@@ -71,7 +119,7 @@ LinkedIn integration with graph analysis helps find mentors, track alumni career
 
 ---
 
-## 🔮 What’s Next
+## 🔮 Extra features
 
 - ML model integration for live data analysis  
 - Resume parsing → skill gap → roadmap generation  
